@@ -1,1 +1,1 @@
-[![.github/workflows/minha-monategm.yml](https://github.com/jaokill69/minha-primeira-linha-de-c-digo/actions/workflows/minha-monategm.yml/badge.svg)](https://github.com/jaokill69/minha-primeira-linha-de-c-digo/actions/workflows/minha-monategm.yml)
+[![Minha Primeira Linha de Montagem](https://github.com/jaokill69/minha-primeira-linha-de-c-digo/actions/workflows/minha-monategm.yml/badge.svg)](https://github.com/jaokill69/minha-primeira-linha-de-c-digo/actions/workflows/minha-monategm.yml)
